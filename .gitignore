@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+model/metrics.json
+model/model_choice.txt
+.DS_Store
